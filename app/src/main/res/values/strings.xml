@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="start">Iniciar</string>
+    <string name="stop">Detener</string>
+    <string name="reset">Reiniciar</string>
+    <string name="time_five_laps">Cronometrar 5 vueltas</string>
+    <string name="lap">Vuelta</string>
+    <string name="laps_time"><b>Tiempo por vuelta</b></string>
+</resources>
